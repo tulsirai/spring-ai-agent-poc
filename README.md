@@ -243,7 +243,7 @@ docker run -p 8080:8080 -e SPRING_AI_OPENAI_API_KEY=sk-xxxx trais-ai-agent
 ### 💬 Author
 
 **Tulsi Rai**  
-Principal Engineer / Solution Architect  
+Principal Software Engineer / Solution Architect  
 20+ years of Java + Cloud experience | AWS Certified Architect  
 🚀 Exploring Agentic AI for enterprise modernization
 
